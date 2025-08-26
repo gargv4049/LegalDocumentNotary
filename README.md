@@ -1,4 +1,4 @@
-# LegalDocument Notary
+<img width="1259" height="580" alt="image" src="https://github.com/user-attachments/assets/199cdbe4-b822-4395-bd17-3f1c7a2a03ce" /># LegalDocument Notary
 
 ## Project Description
 
@@ -43,7 +43,8 @@ We envision a future where legal professionals, businesses, and individuals can 
 ## Contract Address Details
 
 Contract ID: ST3YFWPWVTZF08PFDP4W6QWTC6MJXAQ0T2ZKRHJ8E.LegalDocumentNotary
-![alt text](image-1.png)
+<img width="1259" height="580" alt="image" src="https://github.com/user-attachments/assets/282a7458-5823-40cb-9f1c-21a340cdf748" />
+
 ---
 
 ### Smart Contract Functions
@@ -73,4 +74,5 @@ Contract ID: ST3YFWPWVTZF08PFDP4W6QWTC6MJXAQ0T2ZKRHJ8E.LegalDocumentNotary
 - Event logging for transparency and auditing
 
 ---
+
 
